@@ -6,6 +6,7 @@ A projektünkben az irodákat, az ügyintézőt, a szerverszobát, a várót, a 
 A tervezéshez a Cisco Packet Tracer szimulációs programot használtuk, amely a hálózati topológiák tervezését segítő és megjelenítő program.
 
 [BEB-Portfólió.pdf](https://github.com/user-attachments/files/26458990/BEB-Portfolio.pdf)
+[BEB-Cisco.zip](https://github.com/user-attachments/files/26459854/BEB-Cisco.zip)
 
 
 <img width="1110" height="569" alt="image" src="https://github.com/user-attachments/assets/0e3010b3-6a9a-4742-988e-488a761fe5ca" />
